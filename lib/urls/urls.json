@@ -1,0 +1,4 @@
+{
+    "teams" : "http://scores.usaultimate.org/scores/#{{ division }}/teams",
+    "team"  : "http://scores.usaultimate.org/scores/#{{ division }}/team/{{ id }}"
+}

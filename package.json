@@ -1,0 +1,11 @@
+{
+  "name": "sr-api",
+  "author": "Calvin French-Owen",
+  "version": "0.0.1",
+  "dependencies": {
+    "underscore": "~1.4.0",
+    "mustache": "~0.7.0",
+    "async": "~0.1.22",
+    "phantom": "*"
+  }
+}
