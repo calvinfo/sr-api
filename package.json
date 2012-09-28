@@ -7,5 +7,6 @@
     "mustache": "~0.7.0",
     "async": "~0.1.22",
     "phantom": "*"
-  }
+  },
+  "main": "./lib/index"
 }
